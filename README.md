@@ -6,7 +6,7 @@
 This project investigates sales performance figures and sales person performance. It shows total sales, total profit, profit ratio and average discount rate and compares employee performance by using line charts and creating measures.
 
 LINK to file:
-Sales Performance Analysis.pbix
+[Sales Performance Analysis.pbix](https://github.com/Desi-Kat/Data-Analytics/blob/4341759cbcbaed7f4af8e6c0690806fb2a8839ee/Sales%20Performance%20Analysis.pbix)
 
 **Technologies:**
 Power BI
