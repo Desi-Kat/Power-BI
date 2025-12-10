@@ -67,6 +67,13 @@ Two datasets were used and cleaned in PowerQuery
 **Conclusions:**
 The dashboard enables the user to interact with the visuals and view sales data across various sales regions and analyse performance by year and quarter which will potentially enable data-informed decisions on where to focus marketing efforts.
 
+  **2.1 Sales Dashboard**
+  
+  Using two more datasets as practice I have identified profit and sales by geographical location, segment and average discount. 
+
+<img width="1483" height="810" alt="image" src="https://github.com/user-attachments/assets/66199a3e-055a-489e-9d00-feeec4578157" />
+
+
 **3. Work-Based Projects**
 
    **Data Analytics Learner Analysis**
