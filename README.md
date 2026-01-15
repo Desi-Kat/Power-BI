@@ -5,8 +5,7 @@
 **Description:**
 This project investigates sales performance figures and sales person performance. It shows total sales, total profit, profit ratio and average discount rate and compares employee performance by using line charts and creating measures.
 
-LINK to file:
-[Sales Performance Analysis.pbix](https://github.com/Desi-Kat/Data-Analytics/blob/4341759cbcbaed7f4af8e6c0690806fb2a8839ee/Sales%20Performance%20Analysis.pbix)
+[LINK](https://github.com/Desi-Kat/Data-Analytics/blob/4341759cbcbaed7f4af8e6c0690806fb2a8839ee/Sales%20Performance%20Analysis.pbix)
 
 **Technologies:**
 Power BI
@@ -39,7 +38,7 @@ By defining the maximum average discount rate and the minimum profit ratio, I wa
 
 <img width="1487" height="838" alt="image" src="https://github.com/user-attachments/assets/0d8b7726-4e6d-4fdd-b43c-84e5e021e14a" />
 
-LINK to File: https://github.com/Desi-Kat/Data-Analytics/blob/2c01b24d34a32be5588f64ce29ed1cbc9280d79b/Countries.pbix 
+[LINK](https://github.com/Desi-Kat/Data-Analytics/blob/2c01b24d34a32be5588f64ce29ed1cbc9280d79b/Countries.pbix)
 
 **Description:**
 
@@ -73,8 +72,13 @@ The dashboard enables the user to interact with the visuals and view sales data 
 
 <img width="1483" height="810" alt="image" src="https://github.com/user-attachments/assets/66199a3e-055a-489e-9d00-feeec4578157" />
 
+**3. Employee Training and Development Report**
 
-**3. Work-Based Projects**
+<img width="1318" height="742" alt="image" src="https://github.com/user-attachments/assets/332d3001-7ad0-4e7e-9286-f33afc04aedb" />
+
+**Description**: I created a model by importing and transforming 3 tables in PowerQuery. I created measures for Number of employees and Average Satisfaction and a Business Unit hierarchy which allowed me to visualise the Total Training Cost by Department, Business Unit and Division.
+
+**4. Work-Based Projects**
 
    **Data Analytics Learner Analysis**
 
@@ -89,12 +93,12 @@ The dashboard enables the user to interact with the visuals and view sales data 
 <img width="762" height="363" alt="image" src="https://github.com/user-attachments/assets/b86c0856-01d4-4faf-88ec-3cf5ee15a119" />
 
 
-**4. Excel Pivot Tables**
+**5. Excel Pivot Tables**
 
 Conditional formatting and Slicers used to demonstrate Sales amounts per gender and age.
 <img width="963" height="571" alt="image" src="https://github.com/user-attachments/assets/2ed3a011-14f7-4bf6-bcf1-d1709aa5f103" />
 
-**5. Tableau Dashboards**
+**6. Tableau Dashboards**
 
 **Global Health Dashboard** https://public.tableau.com/views/GlobalHealthDashboard_17652822015400/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
 <img width="1020" height="772" alt="image" src="https://github.com/user-attachments/assets/6d6e910b-4a8b-4675-b45c-4a8fdce45180" />
