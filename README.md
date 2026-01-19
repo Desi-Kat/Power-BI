@@ -63,6 +63,8 @@ Two datasets were used and cleaned in PowerQuery
 The dashboard enables the user to interact with the visuals and view sales data across various sales regions and analyse performance by year and quarter which will potentially enable data-informed decisions on where to focus marketing efforts.
 
   **2.1 Sales Dashboard**
+
+  [LINK](https://app.powerbi.com/view?r=eyJrIjoiZGNlZTFiMzYtMTBmNC00ODNiLTkyOTItNzYyZTRhNGY3ZmM1IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
   
   Using two more datasets as practice I have identified profit and sales by geographical location, segment and average discount. 
 
@@ -70,6 +72,7 @@ The dashboard enables the user to interact with the visuals and view sales data 
 
 **3. Employee Training and Development Report**
 
+[LINK](https://app.powerbi.com/view?r=eyJrIjoiZjY1ZTkwZWUtOTBjYi00ZjM3LTlmYzktNzRhZWU5NjMzNDViIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
 <img width="1318" height="742" alt="image" src="https://github.com/user-attachments/assets/332d3001-7ad0-4e7e-9286-f33afc04aedb" />
 
 **Description**: I created a model by importing and transforming 3 tables in PowerQuery. I created measures for Number of employees and Average Satisfaction and a Business Unit hierarchy which allowed me to visualise the Total Training Cost by Department, Business Unit and Division.
