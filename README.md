@@ -5,16 +5,16 @@
 **Description:**
 This project investigates sales performance figures and sales person performance. It shows total sales, total profit, profit ratio and average discount rate and compares employee performance by using line charts and creating measures.
 
-[LINK](https://github.com/Desi-Kat/Data-Analytics/blob/4341759cbcbaed7f4af8e6c0690806fb2a8839ee/Sales%20Performance%20Analysis.pbix)
+[LINK](https://app.powerbi.com/view?r=eyJrIjoiYWI5Nzg2OTYtODE3OS00NjhjLThhZGQtZWQwZDkyZWMyYzk1IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
 
 **Technologies:**
 Power BI
 
 **Dataset:**
 There were 6 data sets used and data was transformed to ensure relevant columns are used for the aim of the analysis.
-<img width="1425" height="824" alt="image" src="https://github.com/user-attachments/assets/2e4521e0-2ad6-4b15-871c-4bbfb376a800" />
+<img width="600" height="347" alt="image" src="https://github.com/user-attachments/assets/2e4521e0-2ad6-4b15-871c-4bbfb376a800" />
 
-<img width="1409" height="783" alt="image" src="https://github.com/user-attachments/assets/e69aaba5-6e92-476e-9f41-a97ec19f9ccf" />
+<img width="792" height="440" alt="image" src="https://github.com/user-attachments/assets/e69aaba5-6e92-476e-9f41-a97ec19f9ccf" />
 
 **Task List:**
 
