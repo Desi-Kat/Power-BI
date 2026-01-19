@@ -38,19 +38,15 @@ By defining the maximum average discount rate and the minimum profit ratio, I wa
 
 <img width="1487" height="838" alt="image" src="https://github.com/user-attachments/assets/0d8b7726-4e6d-4fdd-b43c-84e5e021e14a" />
 
-[LINK](https://github.com/Desi-Kat/Data-Analytics/blob/2c01b24d34a32be5588f64ce29ed1cbc9280d79b/Countries.pbix)
-
 **Description:**
 
 Report on sales and demonstrate annual sales and geographical distribution over 4 consecutive years.
 
-**Technologies:**
-Power BI
-
 **Dataset:**
 
 Two datasets were used and cleaned in PowerQuery
-<img width="817" height="767" alt="image" src="https://github.com/user-attachments/assets/667b571d-f4da-463d-8b4c-d10d76112a53" />
+
+<img width="571" height="536" alt="image" src="https://github.com/user-attachments/assets/667b571d-f4da-463d-8b4c-d10d76112a53" />
 
 **Task List:**
 
