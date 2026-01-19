@@ -92,13 +92,7 @@ The dashboard enables the user to interact with the visuals and view sales data 
 
 <img width="762" height="363" alt="image" src="https://github.com/user-attachments/assets/b86c0856-01d4-4faf-88ec-3cf5ee15a119" />
 
-
-**5. Excel Pivot Tables**
-
-Conditional formatting and Slicers used to demonstrate Sales amounts per gender and age.
-<img width="963" height="571" alt="image" src="https://github.com/user-attachments/assets/2ed3a011-14f7-4bf6-bcf1-d1709aa5f103" />
-
-**6. Tableau Dashboards**
+**5. Tableau Dashboards**
 
 [**Global Health Dashboard**](https://public.tableau.com/views/GlobalHealthDashboard_17652822015400/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
