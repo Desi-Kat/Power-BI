@@ -1,4 +1,4 @@
-# Data Analytics Portfolio - Desislava Katelieva
+# Power BI Analysis and Visualisations
 
 **1. Power BI Sales Performance Analysis**
 
