@@ -91,14 +91,3 @@ The dashboard enables the user to interact with the visuals and view sales data 
 
 <img width="762" height="363" alt="image" src="https://github.com/user-attachments/assets/b86c0856-01d4-4faf-88ec-3cf5ee15a119" />
 
-**5. Tableau Dashboards**
-
-[**Global Health Dashboard**](https://public.tableau.com/views/GlobalHealthDashboard_17652822015400/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-<img width="1020" height="772" alt="image" src="https://github.com/user-attachments/assets/6d6e910b-4a8b-4675-b45c-4a8fdce45180" />
-
-[**Employment Change Data UK**](https://public.tableau.com/views/Employmentchange_17652049122590/GBEmploymentDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-<img width="1677" height="781" alt="image" src="https://github.com/user-attachments/assets/40691dc6-794f-4c6b-be9f-180cfa5aee98" />
-
-[**Spotify Genres Dashboard**](https://public.tableau.com/views/SpotifyGenresDashboard/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-<img width="947" height="782" alt="image" src="https://github.com/user-attachments/assets/7898c079-a09e-4c2f-a27e-319570c55f4b" />
