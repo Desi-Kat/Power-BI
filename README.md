@@ -98,6 +98,14 @@ Analysis created to support training delivery for data analytics programmes, sho
 
 ---
 
+### 5. Combining Data from Excel and an OData feed in Power BI
+
+An overview of products sold, geographic distribution and order date.
+
+[LINK](https://app.powerbi.com/view?r=eyJrIjoiMDU0OTNjYTUtZTM2ZC00NjdiLTg4YjgtODhhNjMxMDU0NjJjIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
+
+<img width="898" height="468" alt="image" src="https://github.com/user-attachments/assets/7c0f5d1b-983d-4371-8535-ae1a16fa1727" />
+
 ## 🛠 Skills & Tools Demonstrated
 
 | Category | Skills |
