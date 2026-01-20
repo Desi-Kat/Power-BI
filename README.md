@@ -13,7 +13,7 @@ A comprehensive performance dashboard exploring sales metrics and team performan
 
 **Dataset:**
 
-There were 6 data sets used and data was transformed to ensure relevant columns are used for the aim of the analysis.
+There were 5 data sets used and data was transformed to ensure relevant columns are used for the aim of the analysis.
 
 <img width="600" height="347" alt="image" src="https://github.com/user-attachments/assets/2e4521e0-2ad6-4b15-871c-4bbfb376a800" />
 
