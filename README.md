@@ -64,13 +64,15 @@ Visual analysis of annual sales and geographical distribution over four consecut
 
 ---
 
-### 3. **Employee Training and Development Report**
+### 3. **Employee Training and Development Report and Performance Analysis**
 
 [LINK](https://app.powerbi.com/view?r=eyJrIjoiZjY1ZTkwZWUtOTBjYi00ZjM3LTlmYzktNzRhZWU5NjMzNDViIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
 
-<img width="988" height="556" alt="image" src="https://github.com/user-attachments/assets/332d3001-7ad0-4e7e-9286-f33afc04aedb" />
+<img width="954" height="540" alt="image" src="https://github.com/user-attachments/assets/ba80ba53-49e8-417a-a069-6dfa925b33df" />
 
-A dashboard designed around learner and training data to present participation, cost, and satisfaction metrics.
+<img width="1197" height="675" alt="image" src="https://github.com/user-attachments/assets/397d04c1-271c-4920-b47c-a740f9f4b607" />
+
+A dashboard designed around employee training and performance data to present participation, cost, and satisfaction metrics.
 
 **Key Focus Areas:**
 - Training cost by department
