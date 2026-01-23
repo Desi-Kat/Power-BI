@@ -68,9 +68,10 @@ Visual analysis of annual sales and geographical distribution over four consecut
 
 [LINK](https://app.powerbi.com/view?r=eyJrIjoiZjY1ZTkwZWUtOTBjYi00ZjM3LTlmYzktNzRhZWU5NjMzNDViIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
 
-<img width="954" height="540" alt="image" src="https://github.com/user-attachments/assets/ba80ba53-49e8-417a-a069-6dfa925b33df" />
+<img width="893" height="501" alt="image" src="https://github.com/user-attachments/assets/4ba1a59d-5e1f-40a7-86d4-c15f48523ae7" />
 
-<img width="1197" height="675" alt="image" src="https://github.com/user-attachments/assets/397d04c1-271c-4920-b47c-a740f9f4b607" />
+<img width="895" height="506" alt="image" src="https://github.com/user-attachments/assets/b6db66c5-8ee0-4821-bd48-fffeef31cd5a" />
+
 
 A dashboard designed around employee training and performance data to present participation, cost, and satisfaction metrics.
 
